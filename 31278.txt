@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-siema
+siemaa
 =======
-siema
+siemaa
 >>>>>>> 52781c6 (Konflikt 2 zadanie)
